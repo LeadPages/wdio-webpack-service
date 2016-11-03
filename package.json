@@ -1,7 +1,7 @@
 {
   "name": "wdio-webpack-service",
   "description": "Builds webpack bundles.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "LeadPages/wdio-webpack-service",
   "license": "MIT",
