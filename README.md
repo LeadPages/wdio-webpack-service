@@ -1,5 +1,7 @@
 # WDIO Webpack Service
 
+[![npm](https://img.shields.io/npm/v/wdio-webpack-service.svg?style=flat-square)](https://www.npmjs.com/package/wdio-webpack-service) [![npm](https://img.shields.io/npm/dm/wdio-webpack-service.svg?style=flat-square)](https://www.npmjs.com/package/wdio-webpack-service) [![npm](https://img.shields.io/npm/l/wdio-webpack-service.svg?style=flat-square)](https://www.npmjs.com/package/wdio-webpack-service)
+
 This allows you to build your static assets through webpack before testing.
 
 ## Installation
