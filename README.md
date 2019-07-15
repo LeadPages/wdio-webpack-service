@@ -1,3 +1,7 @@
+# No longer actively maintained!
+
+Leadpages migrated to using [Chrome Headless with Puppeteer](https://github.com/GoogleChrome/puppeteer) for our end-to-end testing, and as a result, we no longer actively maintain this repository. If you would like to fork and maintain this, send us an email and we can direct folks your way.
+
 # WDIO Webpack Service
 
 [![npm](https://img.shields.io/npm/v/wdio-webpack-service.svg?style=flat-square)](https://www.npmjs.com/package/wdio-webpack-service) [![npm](https://img.shields.io/npm/dm/wdio-webpack-service.svg?style=flat-square)](https://www.npmjs.com/package/wdio-webpack-service) [![npm](https://img.shields.io/npm/l/wdio-webpack-service.svg?style=flat-square)](https://www.npmjs.com/package/wdio-webpack-service)
